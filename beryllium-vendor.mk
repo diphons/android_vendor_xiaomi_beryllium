@@ -310,6 +310,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/libscveFaceLandmarks.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscveFaceLandmarks.so \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/libscveFaceRecognition.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscveFaceRecognition.so \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/libslimclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libslimclient.so \
+    vendor/xiaomi/beryllium/proprietary/vendor/lib64/libsoc_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoc_helper.so \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/libwvkeybox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvkeybox.so \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/libxtadapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxtadapter.so \
     vendor/xiaomi/beryllium/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
